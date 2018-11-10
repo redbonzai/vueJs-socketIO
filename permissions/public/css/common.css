@@ -1,0 +1,5 @@
+ul.chat-message-container {
+
+    overflow-y: scroll;
+    height: 200px;
+}
